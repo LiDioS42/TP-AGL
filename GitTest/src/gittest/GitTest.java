@@ -5,7 +5,7 @@
 package gittest;
 
 /**
- *
+ * ceci est une modification
  * @author timotheetroncy
  */
 public class GitTest {
